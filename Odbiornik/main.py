@@ -1,6 +1,6 @@
 from tkinter import *
 import configparser
-
+#test
 objects_list = configparser.ConfigParser()
 objects_list.read("objects.ini")
 
